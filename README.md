@@ -3,6 +3,7 @@
 This project implements a Monte Carlo ray tracing engine for image generation, simulating global illumination through large-scale stochastic light sampling.
 
 **Tech Stack**
+
 C / C++ for core implementation
 CUDA for GPU-accelerated ray tracing
 MPI for distributed multi-GPU execution
